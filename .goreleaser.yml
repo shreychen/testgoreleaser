@@ -9,11 +9,11 @@ builds:
     goarch:
       - amd64
 
-archive:
-  format: tar.gz
-  replacements:
-    amd64: 64-bit
-    darwin: macOS
-    linux: Tux
-  files:
-    - drum-roll.licence.txt
+# archive:
+#   format: tar.gz
+#   replacements:
+#     amd64: 64-bit
+#     darwin: macOS
+#     linux: Tux
+#   files:
+#     - drum-roll.licence.txt
